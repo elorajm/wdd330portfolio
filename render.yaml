@@ -1,0 +1,6 @@
+staticSites:
+  - name: wdd330portfolio
+    env: static
+    buildCommand: ""
+    publishPath: .
+    pullRequestPreviewsEnabled: false
